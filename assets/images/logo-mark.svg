@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 120" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Precision Engineers logo mark</title>
+  <g fill="none" stroke="#1f5130" stroke-width="13" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M18 72 51 17 83 72Z"/>
+    <path d="M77 72 109 17 142 72Z"/>
+    <path d="M48 101 80 47 113 101Z"/>
+  </g>
+</svg>
